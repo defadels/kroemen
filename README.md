@@ -4,7 +4,7 @@
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning Pythoneer And Back End Developer </br>
+    - 🌱 I’m currently learning Pythoneer And App Development </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
