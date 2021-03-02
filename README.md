@@ -13,7 +13,9 @@
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroemen&hide=contribs,prs&show_icons=true&locale=en&layout=compact&theme=merko" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroemen&true&locale=en&layout=compact&theme=merko" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kroemen&hide=contribs,prs&show_icons=true&locale=ja&layout=compact&theme=merko" />
 </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kroemen&true&locale=ja&layout=compact&theme=merko" />
+ <p/>
 
